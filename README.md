@@ -109,7 +109,7 @@ This assessment highlights several critical vulnerabilities present in the DVWA 
 
 **Recommendations:**
 
-* Follow secure coding practices based on OWASP guidelines.
+* Follow secure coding practices based on OWASP guidelines.( e.g input validation, output encoding).
 * Implement layered defenses including WAFs and authentication controls.
 * Conduct regular penetration testing and vulnerability scans.
 * Train development teams on secure coding and the Software Development Lifecycle (SSDLC).
