@@ -1,10 +1,7 @@
 # FUTURE_CS_01
 This repository contains Task 1 of the FUTURE Cyber Security Internship: Web Application Security Testing using OWASP ZAP, Burp Suite, and SQLMap.
-Here is the rewritten version of your **Professional Security Assessment Report** in plain text (`.txt`) format. The structure and technical content have been preserved, but the language has been refined for clarity and professional tone.
 
 ---
-
-**Professional Security Assessment Report**
 **Vulnerability Assessment of DVWA Web Application**
 
 ---
